@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ###actualizado desde github.
 Primera edicion de readme desde github
+
+segunda linea acutalizado
