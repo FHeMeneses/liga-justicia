@@ -7,6 +7,8 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 ###actualizado desde github.
-Primera edicion de readme desde github
+Primera edicion de readme desde github.
 
 segunda linea acutalizado
+
+tercera llamada
